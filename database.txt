@@ -1,0 +1,8 @@
+Nike_2024_1,2024,Nike,SportyMart,Footwear
+VivoS1_2024_1,2024,Vivo S1,TechStore,Electronics
+bag003_2022_1,2022,Hermes,LuxuryBagShop,Fashion
+Dell_2024_1,2024,Dell,OfficeGear,Computers
+watch005_2021_1,2021,Rolex,TimeZone,Accessories
+headphone006_2023_1,2023,Sony,AudioWorld,Electronics
+Asusvivobook_2024_1,2024,Asus vivobook,YooTechstore,elektronik
+samsungwatch_2024_1,2024,samsung watch,techstore,fashion
